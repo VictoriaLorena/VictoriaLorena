@@ -32,10 +32,10 @@
 ## Minhas Redes Sociais
 <div>
   <a style="margin-right: 15px;" href="mailto:victorialorenaf.gomes@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="https://e7.pngegg.com/pngimages/132/138/png-clipart-gmail-icon-gmail-computer-icons-email-google-contacts-google-account-gmail-blue-angle.png" />
+    <img width="32px" alt="gmail" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/victoria-lorena-393b05212/" target="_blank">
-    <img width="64px" alt="linkedIn" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F174%2F174857.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flinkedin_174857&tbnid=JdyXos__tp7KHM&vet=12ahUKEwjmm9bGzqP3AhVfN7kGHRjzCh0QMygAegUIARDHAQ..i&docid=vN5M6nzFDECBsM&w=512&h=512&q=icone%20linkedin%20png&ved=2ahUKEwjmm9bGzqP3AhVfN7kGHRjzCh0QMygAegUIARDHAQ" />
+    <img width="32px" alt="linkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
 </div>
 
