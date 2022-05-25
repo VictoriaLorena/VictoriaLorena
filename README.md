@@ -32,7 +32,7 @@
 ## Minhas Redes Sociais
 <div>
   <a style="margin-right: 15px;" href="mailto:victorialorenaf.gomes@gmail.com" target="_blank">
-    <img width="64px" alt="gmail" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F132%2F138%2Fpng-clipart-gmail-icon-gmail-computer-icons-email-google-contacts-google-account-gmail-blue-angle.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fpt%2Fpng-splvr&tbnid=RTEVMy6FoyfcoM&vet=12ahUKEwipg-W0zqP3AhXxCrkGHeqFCQ0QMygPegUIARDcAQ..i&docid=7yHxRyj8Q8V0XM&w=900&h=512&q=icone%20gmail%20png&ved=2ahUKEwipg-W0zqP3AhXxCrkGHeqFCQ0QMygPegUIARDcAQ" />
+    <img width="64px" alt="gmail" src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F132%2F138%2Fpng-clipart-gmail-icon-gmail-computer-icons-email-google-contacts-google-account-gmail-blue-angle.png&imgrefurl=https%3A%2F%2Fwww.pngegg.com%2Fpt%2Fpng-splvr&tbnid=RTEVMy6FoyfcoM&vet=12ahUKEwipg-W0zqP3AhXxCrkGHeqFCQ0QMygPegUIARDcAQ..i&docid=7yHxRyj8Q8V0XM&w=900&h=512&q=icone%20gmail%20png&ved=2ahUKEwipg-W0zqP3AhXxCrkGHeqFCQ0QMygPegUIARDcAQ](https://e7.pngegg.com/pngimages/132/138/png-clipart-gmail-icon-gmail-computer-icons-email-google-contacts-google-account-gmail-blue-angle.png)" />
   </a>
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/victoria-lorena-393b05212/" target="_blank">
     <img width="64px" alt="linkedIn" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F174%2F174857.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flinkedin_174857&tbnid=JdyXos__tp7KHM&vet=12ahUKEwjmm9bGzqP3AhVfN7kGHRjzCh0QMygAegUIARDHAQ..i&docid=vN5M6nzFDECBsM&w=512&h=512&q=icone%20linkedin%20png&ved=2ahUKEwjmm9bGzqP3AhVfN7kGHRjzCh0QMygAegUIARDHAQ" />
